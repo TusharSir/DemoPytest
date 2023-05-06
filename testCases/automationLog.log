@@ -1,0 +1,60 @@
+2023-05-06 22:41:20,168 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:41:20,169 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:41:20,169 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:41:20,169 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:41:20,170 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:48:02,317 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:48:02,317 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:48:02,317 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:48:02,317 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:48:02,318 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:49:01,825 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:49:01,825 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:49:01,825 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:49:01,825 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:49:01,825 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:50:01,931 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:50:01,931 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:50:01,931 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:50:01,931 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:50:01,931 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:51:02,738 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:51:02,738 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:51:02,738 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:51:02,738 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:51:02,739 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:52:02,525 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:52:02,525 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:52:02,525 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:52:02,525 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:52:02,525 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:53:03,161 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:53:03,162 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:53:03,162 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:53:03,162 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:53:03,163 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:54:03,199 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:54:03,199 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:54:03,199 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:54:03,199 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:54:03,200 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:55:01,819 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:55:01,819 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:55:01,819 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:55:01,819 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:55:01,819 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:56:02,671 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:56:02,671 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:56:02,671 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:56:02,671 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:56:02,671 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:57:01,888 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:57:01,888 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:57:01,888 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:57:01,888 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:57:01,888 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
+2023-05-06 22:58:01,811 :INFO : Test_Py : test_sum_001 : 18 :test_sum_001
+2023-05-06 22:58:01,811 :WARNING : Test_Py : test_sum_001 : 19 :test_sum_001
+2023-05-06 22:58:01,811 :ERROR : Test_Py : test_sum_001 : 20 :test_sum_001
+2023-05-06 22:58:01,811 :CRITICAL : Test_Py : test_sum_001 : 21 :test_sum_001
+2023-05-06 22:58:01,811 :INFO : Test_Py : test_sum_001 : 27 :test_sum_001 is Passed
